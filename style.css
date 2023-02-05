@@ -39,8 +39,8 @@ body {
   /* font styling */
 
   .font-panel {
-    width: 45%;
-    display: inline-block;
+    width: 49%;
+    display:inline-table
   }
   
   .font-label {
@@ -50,14 +50,17 @@ body {
 
   .regular {
     font-style: normal;
+    font-size: normal;
   }
   
   .italic {
     font-style: italic;
+    font-size: normal;
   }
   
   .bold {
     font-weight: 700;
+    font-size: normal;
   }
 
   .Arial {
